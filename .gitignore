@@ -23,9 +23,9 @@
 hs_err_pid*
 
 # gradle cache
-.gradle
+.gradle/
 
-.ieda
+.ieda/
 
 .gitignore
 # 排除根目录下的.gitignore
